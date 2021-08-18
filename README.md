@@ -1,3 +1,3 @@
-#React-App===Movie-Finder
+#React-App--Movie-Finder
 
 Multi-component React application with Movie Database API
