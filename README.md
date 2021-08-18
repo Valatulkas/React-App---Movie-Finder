@@ -1,3 +1,3 @@
-#React-App--Movie-Finder
+# React.JS-Movie_Finder
 
 Multi-component React application with Movie Database API
